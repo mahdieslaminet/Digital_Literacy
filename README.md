@@ -33,3 +33,15 @@
 
 با احترام،
 گروه موج پردازان
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                         
+                                                                                                            https://drive.google.com/drive/folders/1sJw7y0RBfd2WoEGJjpuA1ArzhFfjyKRq?usp=sharingلینک ویدیو
+  
+                                                                                                         لینک ویدیو توضیح رباتhttps://drive.google.com/drive/folders/13-aSMlsyRMzSlzlN5V_ug3KZ1KE_MG4V
+                                                                                                         
+                                                                                                         
+                                                                                                  
