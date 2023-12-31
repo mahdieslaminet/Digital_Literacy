@@ -1,16 +1,8 @@
-                                                                                                            https://drive.google.com/drive/folders/1sJw7y0RBfd2WoEGJjpuA1ArzhFfjyKRq?usp=sharingلینک ویدیو
   
-                                                                                                         لینک ویدیو توضیح رباتhttps://drive.google.com/drive/folders/13-aSMlsyRMzSlzlN5V_ug3KZ1KE_MG4V
-                                                                                                         
-                                                                                                         @media_literacy_by      آدرس بات
+https://drive.google.com/drive/folders/1sJw7y0RBfd2WoEGJjpuA1ArzhFfjyKRq?usp=sharingلینک ویدیو
+لینک ویدیو توضیح رباتhttps://drive.google.com/drive/folders/13-aSMlsyRMzSlzlN5V_ug3KZ1KE_MG4V
 
-
-
-
-
-
-
-
+@media_literacy_by      آدرس بات
 # آموزش سواد رسانه و سواد دیجیتال با استفاده از ربات
 
 این پروژه یک ربات است که با استفاده از ویدیو و متن، آموزش سواد رسانه و سواد دیجیتال را به کاربران ارائه می‌دهد.
